@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    text-decoration: brown;
+}
+.startline{
+    text-align: center;
+}
+.search-box{
+    display: flex;
+}
+.search-box{
+    flex: 1;
+    padding: 10px;
+    border: 1px;
+}
